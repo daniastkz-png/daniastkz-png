@@ -16,7 +16,7 @@ I build technology projects, participate in hackathons, and learn programming st
 
 ## Featured Projects
 
-### QadamSafe
+### Safira
 AI platform that helps detect phishing attacks and protect users from online scams.
 
 ### SentraFire
